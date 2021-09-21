@@ -78,7 +78,6 @@ Fully responsive to any device/screen and ready for property business implementa
 ## # [HEROKU](https://www.heroku.com)
 * Cloud platform service used for hosting a "live" version of the project
 
-
 ## # [FONTAWESOME](https://fontawesome.com/) 
 * Use mostly for menu items and across projects elements
 
@@ -106,7 +105,7 @@ Fully responsive to any device/screen and ready for property business implementa
 
 # DEPLOYMENT
 
-**[PROJECT LINK](https://newirishlife.herokuapp.com/)**
+**[PROJECT LINK](https://res-natours.herokuapp.com/)**
 
 ### LOCAL PROJECT SETUP:
 * Create a new repository on **[GitHub](https://github.com)**
