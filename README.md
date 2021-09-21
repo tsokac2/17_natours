@@ -2,7 +2,7 @@
 
 ![Website Main Mockup](https://github.com/tsokac2/17_natours/blob/main/public/img/natourus.jpg)
 
-# ["Nexter"](https://res-natours.herokuapp.com/)
+# ["Natours"](https://res-natours.herokuapp.com/)
 
 ## Contents
 * **[Objective](#OBJECTIVE)**
